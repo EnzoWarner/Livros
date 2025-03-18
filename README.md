@@ -8,3 +8,8 @@
 - GROQCLOUD_API_KEY=Colar a chave aqui
 # Executar codigo
 - python chatbot.py
+
+
+
+https://github.com/user-attachments/assets/3140691c-727c-4dd9-b802-df2e48410225
+
