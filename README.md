@@ -50,10 +50,6 @@ Assistente:
  2. Título: Dom Casmurro, Autor: Machado de Assis, Gênero: Romance
  3. Título: O Pequeno Príncipe, Autor: Antoine de Saint-Exupéry, Gênero: Fábula
 
-# Vídeo:
-- Não coloquei o video com o rosto porque o readme não aceita video com mais de 10mb e o video com rosto deu 333mb 
-
- https://github.com/user-attachments/assets/5a9f1ae8-2eb5-4e9b-9778-28248793c43a
 
 
 
